@@ -1,0 +1,2 @@
+# tere-app-res
+ 
