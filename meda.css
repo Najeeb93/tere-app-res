@@ -1,0 +1,215 @@
+@media only screen and (max-width: 768px) {
+
+    .btn1 {
+        display: none;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .charm {
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    .slider-main {
+        flex-direction: column-reverse !important;
+    }
+
+    .s-left {
+        text-align: center;
+    }
+
+    .centerr {
+        width: 100%;
+        display: flex;
+        flex-direction: column !important;
+        justify-content: center;
+        gap: 20px;
+        background-color: #f9f9f9;
+    }
+
+    .c-left {
+        width: 100% !important;
+        display: flex;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .left-heading {
+        width: 100%;
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .mcenter {
+        display: flex;
+        justify-content: center;
+        width: 100% !important;
+        background-image: url(images/Ellipse\ 1.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+
+    }
+
+    .c-right {
+        width: 100% !important;
+        display: flex;
+        flex-direction: column;
+        align-items: center !important;
+    }
+
+    .s-car {
+        display: none;
+    }
+
+    .car-res {
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .car-res img {
+        width: 100% !important;
+        object-fit: contain !important;
+    }
+}
+
+@media only screen and (max-width: 780px) {
+    .srgeenback {
+        flex-wrap: wrap !important;
+        text-align: center !important;
+
+    }
+
+    .srleft {
+        display: block;
+    }
+
+    .srright button {
+        display: block;
+    }
+
+}
+
+@media only screen and (max-width: 780px) {
+    .heading {
+        width: 100%;
+
+
+    }
+
+    .tereworks {
+        width: 100% !important;
+        text-align: center !important;
+        margin-top: 15px;
+
+    }
+
+    .s-left {
+        width: 100% !important;
+        padding: 15px;
+        margin-left: 10px;
+        margin-top: 15px;
+
+    }
+
+    .s-left h3 {
+        width: 100%;
+        font-size: 2.0em !important;
+        filter: drop-shadow(2px 2px 2px gray);
+    }
+
+    .btn-img button img {
+        width: 120px !important;
+        height: 50px;
+        object-fit: contain !important;
+
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+    .mobile>img {
+        width: 200px !important;
+    }
+
+}
+
+@media only screen and (max-width:580px) {
+    .m-content {
+        width: 100% !important;
+        display: block !important;
+        background-color: #fff;
+        text-align: center !important;
+
+    }
+
+    .working {
+        width: 100% !important;
+        margin-top: 8px;
+    }
+
+    .frame {
+        width: 100% !important;
+        text-align: center !important;
+        display: block !important;
+
+    }
+
+    .mid-content {
+        width: 100% !important;
+        background-color: #f9f9f9;
+
+
+    }
+
+    .mid-two {
+        width: 100% !important;
+        background-color: #f9f9f9;
+        margin-top: 25px;
+        margin-right: 8px;
+    }
+
+    .m-two {
+        width: 100% !important;
+        display: block !important;
+        background-color: #fff;
+        gap: 15px;
+        border-radius: 10px;
+        text-align: center;
+    }
+    .dol-bag {
+        width:100% !important;
+    }
+    .earning {
+        width: 100% !important;
+        text-align: center !important;
+        
+    }
+    .mid-three {
+        width: 100% !important;
+        background-color: #f9f9f9;
+        margin-top: 15px;
+    }
+    .m-three {
+        width: 100% !important;
+        display: block !important;
+        background-color: #fff;
+        gap: 15px;
+        border-radius: 10px;
+        text-align: center;
+    
+    }
+    .customer {
+        width: 100% !important;
+    }
+    .support {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+}
